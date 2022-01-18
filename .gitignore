@@ -6,5 +6,5 @@
 *.out
 *.pdf
 *.run.xml
-*syntex.gz
+*.synctex.gz
 *.toc
